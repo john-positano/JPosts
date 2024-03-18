@@ -1,0 +1,25 @@
+.jposts-manager-navbar {
+  background-color: white;
+}
+
+.jpost-editor {
+  min-height: 400px;
+}
+
+.jpost-editor-body {
+  resize: vertical;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.spacer {
+  height: 20px;
+}
+
+label {
+  font-weight: 700;
+}
