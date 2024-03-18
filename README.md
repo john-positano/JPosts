@@ -25,7 +25,7 @@ The bodies of the posts can be searched simply by typing your query into the top
   * An additional `npm build` process after downloading the plugin
   * Potential `node` versioning problems
   * Having to ship the build with a `dist` folder included in the repo
-  * Potentially overcomplicating file structure
+  * Potentially overcomplicating file structure for just a simple project
 * This project could very easily be refactored into a command-line driven build, e.g., with `composer` and `create-react-app`
 * Responsiveness is present, but not perfect. More attention could have been given to styling components.
 * Validation only checks that the required fields are not empty
